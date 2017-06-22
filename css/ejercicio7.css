@@ -1,0 +1,33 @@
+header{
+	background:url(imagenescss/tae.jpg) ;
+	text-align: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+	border-style: double;
+}
+footer{
+	background:url(imagenescss/tae.jpg) ;
+	text-align: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+	color:red;
+
+}
+body{
+	color: #FFF0F5;
+	text-align: center;
+	background-color: #87CEFA;
+}
+h2{
+	background-color: black;
+}
+
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+} 
+#centrado{
+	text-align: center;
+}
