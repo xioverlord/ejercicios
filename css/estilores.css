@@ -1,0 +1,21 @@
+.btn-info{
+	background-color: #FF0000;
+}
+header{
+	background-color: black;
+}
+.blanco{
+	color: #000000;
+}
+
+.blanca{
+	color: white;
+}
+.color{
+	background-color: 	#00FFFF;
+	border-style: double;
+}
+frame{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
